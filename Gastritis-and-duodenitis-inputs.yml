@@ -1,0 +1,42 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/gastritis-and-duodenitis-helicobacter---primary.py
+inputModule3:
+  class: File
+  path: python/gastritis-and-duodenitis-erosion---primary.py
+inputModule4:
+  class: File
+  path: python/gastritis---primary.py
+inputModule5:
+  class: File
+  path: python/acute-gastritis-and-duodenitis---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-gastritis-and-duodenitis---primary.py
+inputModule7:
+  class: File
+  path: python/gastric-gastritis-and-duodenitis---primary.py
+inputModule8:
+  class: File
+  path: python/gastritis-and-duodenitis---primary.py
+inputModule9:
+  class: File
+  path: python/gastritis-and-duodenitis-unspecified---primary.py
+inputModule10:
+  class: File
+  path: python/duodenitis---primary.py
+inputModule11:
+  class: File
+  path: python/other-gastritis-and-duodenitis---primary.py
+inputModule12:
+  class: File
+  path: python/gastritis-gastritis-and-duodenitis-duodenitis---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
